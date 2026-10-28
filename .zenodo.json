@@ -2,7 +2,7 @@
   "title": "css-decoupling-lean: a Lean 4 formalization of decoupling translation-invariant topological CSS codes",
   "upload_type": "software",
   "version": "0.1.0",
-  "description": "A Lean 4 formalization, using only the standard axioms, of the results of M. He, Y. Wang, H. Song, and Y. Gu, 'Toric codes all the way down: decoupling translation-invariant topological CSS codes in higher dimensions' (2026): the decoupling criterion, the decoupling algorithms and their polynomial cost, minimal coarse-graining, logical qudits on tori, and the glued-code example.",
+  "description": "A Lean 4 formalization, using only the standard axioms, of the results of M. He, Y. Wang, H. Song, and Y. Gu, 'Toric codes all the way down: decoupling translation-invariant topological CSS codes in higher dimensions' (2026): the decoupling criterion, the correctness of the decoupling algorithms, the polynomial cost of Algorithm 2, minimal coarse-graining, logical qudits on tori, and the glued-code example.",
   "creators": [
     {
       "name": "He, Mingxin",

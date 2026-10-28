@@ -12,7 +12,7 @@ authors:
     affiliation: "Chen-Ning Yang Institute for Advanced Study, Tsinghua University"
 abstract: >-
   A Lean 4 formalization of the decoupling criterion for translation-invariant
-  topological CSS codes, the decoupling algorithms and their polynomial cost,
+  topological CSS codes, the correctness of the decoupling algorithms, the polynomial cost of Algorithm 2,
   minimal coarse-graining, logical qudits on tori, and the glued-code example.
 keywords:
   - Lean 4

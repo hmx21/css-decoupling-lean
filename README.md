@@ -4,7 +4,11 @@ A Lean 4 formalization of the results of
 
 > M. He, Y. Wang, H. Song, and Y. Gu, *Toric codes all the way down:
 > decoupling translation-invariant topological CSS codes in higher
-> dimensions*, arXiv:XXXX.XXXXX (2026).
+> dimensions*, [arXiv:2610.40592](https://arxiv.org/abs/2610.40592) (2026).
+
+Version 0.1.0 is archived on Zenodo; the DOI
+[10.5281/zenodo.23752885](https://doi.org/10.5281/zenodo.23752885)
+always resolves to the latest version.
 
 The formalization works over the actual Laurent polynomial ring
 `F_p[Z^D]`, for every prime p and every D ≥ 2, with the superselection
